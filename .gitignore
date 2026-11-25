@@ -1,0 +1,21 @@
+# Ambiente virtual
+.venv/
+
+# Arquivos Python temporários
+__pycache__/
+*.py[cod]
+
+# Dados originais do professor
+data/*
+!data/.gitkeep
+
+# Arquivos gerados
+output/*
+!output/.gitkeep
+
+# Configurações locais
+.env
+.vscode/
+
+# Arquivos temporários
+.DS_Store
