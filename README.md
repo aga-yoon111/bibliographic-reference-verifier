@@ -1,5 +1,6 @@
-## BibTeX Processing Module
+## Bibliografic Reference Verifier (We will add them as the modules are completed)
 
+# Bibtex Processing Module
 Responsible for reading, processing and writing
 BibTeX bibliographic references.
 
